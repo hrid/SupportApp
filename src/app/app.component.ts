@@ -7,7 +7,7 @@ import {ModulesComponent} from './modules/modules.component';
     selector: 'my-app',
     template : `<h1>{{title}}</h1>
     <nav>
-        Hello Finomial...       
+        Hello Finomial...Support App     
 </nav>`
 })
 export class AppComponent { 

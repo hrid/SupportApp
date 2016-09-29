@@ -10,7 +10,7 @@
     "watch": "npm run build -- --watch",
     "typings-install": "typings install",
     "postinstall": "npm run typings-install",
-    "server": "webpack-dev-server --inline --colors --progress --display-error-details --display-cached --https --port 58066  --content-base src",
+    "server": "webpack-dev-server --inline --colors --progress --display-error-details --display-cached --port 58066  --content-base src",
     "start": "npm run server"
   },
   "dependencies": {
